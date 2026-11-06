@@ -1,54 +1,77 @@
 <div align="center">
 
-# 🌈 Hey there! I'm Chalanagnaneshwari 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:6E40C9,50:00D9FF,75:FF4ECD,100:0D1117&height=220&section=header&text=Chalanagnaneshwari&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Welcome%20to%20my%20digital%20world%20%E2%9C%A8&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Computer+Science+Engineering+Student;Learning+and+Building+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey%2C+Welcome+to+my+GitHub!;%F0%9F%92%BB+Computer+Science+Engineering+Student;%F0%9F%A4%96+Exploring+AI+%7C+Data+Science+%7C+Web+Development;%F0%9F%9A%80+Learn.+Build.+Grow." alt="Typing SVG" />
+
+</div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontAlignY=35&animation=fadeIn" width="100%"/>
+<div align="center">
+
+## 🪐 <span style="color:#C084FC">About Me</span>
+
+🎓 **Computer Science Engineering Student**  
+💡 Passionate about learning new technologies  
+🤖 Exploring **AI, Data Science and Web Development**  
+🌱 Growing my skills one project at a time  
+🚀 Turning ideas into projects
 
 </div>
 
 ---
 
-## 🌸 ✨ About Me
+<div align="center">
+
+## 💻 ⚡ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,java,github,vscode&theme=dark&perline=7" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Code-Learn%20Every%20Day-6E40C9?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Goal-Keep%20Growing-00D9FF?style=for-the-badge&logo=rocket&logoColor=black"/>
+<img src="https://img.shields.io/badge/Mindset-Never%20Stop%20Learning-FF4ECD?style=for-the-badge&logo=star&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 🌌 GitHub Universe
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=chalanagnaneshwari-cyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF4ECD&text_color=C9D1D9" />
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=chalanagnaneshwari-cyber&theme=tokyonight&hide_border=true&background=0D1117&ring=FF4ECD&fire=FF9D00&currStreakLabel=00D9FF" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌈 🔮 What I'm Exploring
 
 <table>
 <tr>
-<td width="50%">
-
-### 👩‍💻 Hello!
-
-🎓 Computer Science Engineering Student
-
-🌱 Currently learning and improving my technical skills
-
-💡 Interested in technology, programming and new ideas
-
-🚀 Building my journey one project at a time!
-
-</td>
-
-<td width="50%">
-
-### 🌟 My Motto
-
-> **"Learn 💡 • Build 💻 • Grow 🚀"**
-
-✨ Every small step leads to something bigger!
-
-</td>
+<td align="center">🤖<br><b>Artificial Intelligence</b></td>
+<td align="center">📊<br><b>Data Science</b></td>
+<td align="center">🌐<br><b>Web Development</b></td>
+<td align="center">🐍<br><b>Python Programming</b></td>
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-## 💻 My Tech World 🌍
+## 📈 ⚡ Contribution Activity
 
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,java,github,vscode&perline=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chalanagnaneshwari-cyber&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FF4ECD&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -56,59 +79,37 @@
 
 <div align="center">
 
-## 📊 My GitHub Journey
+## 🏆 🌟 My Journey
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chalanagnaneshwari-cyber&show_icons=true&theme=radical&hide_border=true" />
+🟣 **Learn something new**  
+🔵 **Build something meaningful**  
+🩷 **Keep improving**  
+🟢 **Never stop growing**
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=chalanagnaneshwari-cyber&theme=radical&hide_border=true" />
+<br><br>
 
-</div>
-
----
-
-<div align="center">
-
-## 🌈 What I'm Exploring
-
-| 🤖 AI & Technology | 📊 Data | 🌐 Web |
-|:---:|:---:|:---:|
-| Artificial Intelligence | Data Science | Web Development |
-| Programming | Data Analytics | Front-End Development |
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 My GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chalanagnaneshwari-cyber&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌟 A Little Message
-
-### 💜 *"Dream big, start small, and never stop learning!"* 💜
+> ### 💫 "Small steps every day create big results."
 
 <br>
 
-### 🤝 Let's Connect!
+<img src="https://komarev.com/ghpvc/?username=chalanagnaneshwari-cyber&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🌐 Let's Connect & Create Something Amazing!
 
 <a href="https://github.com/chalanagnaneshwari-cyber">
-<img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
 
 <br><br>
 
-### ⭐ Thanks for visiting my profile! ⭐
-
-<img src="https://komarev.com/ghpvc/?username=chalanagnaneshwari-cyber&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+✨ **Thanks for visiting my GitHub profile!** ✨
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:FF4ECD,50:6E40C9,75:00D9FF,100:0D1117&height=130&section=footer" width="100%"/>
